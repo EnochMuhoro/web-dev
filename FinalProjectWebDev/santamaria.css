@@ -1,0 +1,280 @@
+/*Implementations for the header class for both home and conatact page*/
+.header 
+{
+	height: 50px;
+	padding-bottom: 50px;
+	padding-right: 30px;
+	padding-left: 30px;
+	/*background-color: grey;*/
+	width: 870px;
+	float: center;
+}
+
+/*Implementations for the header logo for both home and contact page*/
+.header-logo
+{
+	float: right;
+	padding-top: 10px;
+	/*padding-bottom: 50px;*/
+}
+
+/*Implementations for the header list in both home and contact page*/
+.header-list
+{
+	float: right;
+}
+.header_list1
+{
+	float: right;
+}
+
+/*Implementation for the unordered list in both home and contact page*/
+ul
+{
+	list-style-type: none;
+}
+
+/*Implementation for the lists in the header list in both home and contact page*/
+.header-list li
+{
+	float: right;
+	padding: 20px 30px;
+	height: 5px;
+}
+/*Implementation for the list in the header list1 in both event and promotion and our hotel*/
+.header_list1 li
+{
+	float: right;
+	padding: 20px 30px;
+	height: 5px;	
+}
+/*Implementation of the contents in the header class in the our hotel*/
+section #section1
+{
+	background: white;
+    color: black;
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    top: 5%;
+    left: 18%;
+	margin-right: -50%;
+    transform: translate(-2%, -2%)
+}
+/*Implementation of the section holding the image in the our hotel page*/
+section #slide
+{
+	position: absolute;
+	/*padding-bottom: 200px;*/
+}
+/*Implementing a div class that contains the section of id slide*/
+.slide
+{
+	padding-bottom: 40px;
+}
+/*Implementation of the image in the oure hotel page*/
+.reception
+{
+	padding-left: 90px;
+	opacity: 0.9;
+}
+
+/*Implementations for the words to be displayed over a background image*/
+/*.words
+{
+	top: 25%;
+	position: absolute;
+	left: 5%;
+	font-size: 30px;
+	opacity: 0.5;
+}
+*/
+/*Implementations for the text inside the paragraphs that are to be displayed*/
+/*.words p
+{
+	color: white;
+}*/
+
+/*Implementation of header in the events and promotion*/
+section #sectionA
+{
+	background: white;
+    color: black;
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    top: 5%;
+    left: 18%;
+	margin-right: -50%;
+    transform: translate(-2%, -2%)
+}
+/*Section that holds the image with class event in the events and ptomotion*/
+section #slidevent
+{
+	position: absolute;
+}
+/*Implementation of the image in event and promotion*/
+.event
+{
+	padding-left: 90px;
+	opacity: 0.9;
+	padding-bottom: 50px;
+}
+/*Implementation of the words in events and promotion*/
+.wordsevent
+{
+	font-style: italic;
+	font-family: sans-serif;
+	font-size: 26px;
+}
+/*Implementation of the words in the events and promotion page*/
+.wordsevent p
+{
+	padding-left: 400px;
+	color: purple;
+	font-size: 30px;
+}
+/*Implementation of the images for booking for events*/
+section #picevents
+{
+	/*padding-left: 500px;*/
+	background-color: black;
+	float: left;
+}
+.pic1
+{
+	float: right;
+	padding-left: 70px;
+	padding-right: 120px;
+}
+.pic2
+{
+	float: right;
+	padding-left: 50px;
+}
+.bookevents
+{
+	padding-left: 70px;
+	/*background-color: black;*/
+}
+.container
+{
+	background-color: white;
+}
+/*Implementation for the left2 class in the home page*/
+.left1
+{
+	display: flex;
+}
+/*Implementation for the about us section in the our hotel page*/
+.about
+{
+	padding-left: 100px;
+	float: left;
+}
+/*Implementation for the left2 class in the home page*/
+.left2
+{
+	display: flex;
+}
+.about1
+{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 200px;
+	float: left;
+}
+.about2
+{
+	padding-top: 0px;
+	padding-left: 100px;
+	/*float: left;*/
+}
+/*Implementation of the words in events and promotion*/
+.wordsevent1
+{
+	font-style: italic;
+	font-family: sans-serif;
+	font-size: 26px;
+	/*padding-top: 70px;*/
+}
+/*Implementation of the words in the events and promotion page*/
+.wordsevent1 p
+{
+	padding-left: 400px;
+	color: purple;
+	font-size: 30px;
+	padding-top: 300px;
+}
+
+.promotion
+{
+	padding-left: 50px;
+	/*background-color: black;*/
+}
+/*Implementation of the images for booking for events*/
+section #picpromotion
+{
+	/*padding-left: 500px;*/
+	background-color: black;
+	float: left;
+}
+.picp1
+{
+	float: right;
+	padding-left: 20px;
+	padding-right: 180px;
+}
+.picp2
+{
+	float: right;
+	/*padding-left: 200px;*/
+	padding-right: 220px;
+}
+
+.forms
+{
+	float: left;
+	padding-top: 0px;
+	padding-left: 150px;
+}
+.feedback
+{
+	float: right;
+	padding-right: 200px;
+	padding-top: 20px;
+	color: purple;
+}
+
+/*Implementation of the words in events and promotion*/
+.footer
+{
+	font-style: italic;
+	font-family: sans-serif;
+	font-size: 26px;
+	/*padding-top: 70px;*/
+}
+/*Implementation of the words in the events and promotion page*/
+.footer p
+{
+	/*padding-left: 400px;*/
+	color: purple;
+	font-size: 15px;
+	padding-top: 300px;
+}
+/*Implementation of the words in events and promotion*/
+.footer1
+{
+	font-style: italic;
+	font-family: sans-serif;
+	/*font-size: 26px;*/
+	/*padding-top: 70px;*/
+}
+/*Implementation of the words in the events and promotion page*/
+.footer1 p
+{
+	/*padding-left: 400px;*/
+	color: purple;
+	font-size: 15px;
+	/*padding-top: 300px;*/
+}
